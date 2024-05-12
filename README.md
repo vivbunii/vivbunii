@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-Hey everyone, I'm Vivian and I like both designing and developing programs. Currently working on my next project -> A website to journal dreams!
+Hey everyone, I'm Vivian and I like both designing and developing programs. Currently working on a project to locate concerts locally!
 </p>
 <h2 align="center">
 GitHub Stats
